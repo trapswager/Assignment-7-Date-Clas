@@ -22,4 +22,7 @@ java Main
 - Implements `Comparable` for sorting purposes.
 - Includes error handling for invalid dates.
 
-  Screenshots
+  Screenshots:
+
+  ![Снимок экрана 2025-04-02 165433](https://github.com/user-attachments/assets/ca8d9ec7-63eb-49eb-8cb8-8021ed85e69e)
+
